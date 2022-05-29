@@ -9,7 +9,7 @@ The idea is that when the government or city is doing a new urban planning it is
 3666 small satellite images of the whole city of Austin and a csv file which relates the name of each of these images to the corresponding zoning tag.
 https://www.kaggle.com/datasets/franchenstein/austin-zoning-satellite-images
 
-## Files
+## Files (Final Folder)
 
 ### zoning_image_processing_bounding_box_crop.ipynb
 
