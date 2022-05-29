@@ -26,7 +26,7 @@ While the group has experience with Tensorflow, we wanted to experiment with ano
 
 ### vision_transformer.ipynb
 
-Model with VisionTransformer. Consists of function for divide the image into patches and actual model. The model architecture is used the vision transformer from google research github page: https://github.com/google-research/vision_transformer. 
+Model with VisionTransformer. The code consists of function for dividing the image into patches and building model. The model architecture is used the vision transformer from google research github page: https://github.com/google-research/vision_transformer. 
 
 ## Team
 
