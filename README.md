@@ -13,6 +13,7 @@ https://www.kaggle.com/datasets/franchenstein/austin-zoning-satellite-images
 
 ### zoning_image_processing_bounding_box_crop.ipynb
 
+Since there is a good amount of overlap when it comes to the four different classes, we tried a bounding box crop in order to better allow the model to understand the main characteristics of the images. This also can help conserve resources when it comes to running and training the model. Ideally, by applying bounding boxes, the noise and unnecessary parts of the images would be discarded and the more important aspects would be highlighted.  
 
 
 ### zoning_satellite.ipynb
